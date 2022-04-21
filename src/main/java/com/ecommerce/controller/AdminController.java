@@ -15,7 +15,6 @@ import com.ecommerce.model.Admin;
 import com.ecommerce.service.AdminService;
 import com.ecommerce.model.Seller;
 
-//admin
 @RestController
 @RequestMapping("/Admin")
 public class AdminController {
